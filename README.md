@@ -49,7 +49,8 @@ BMP280   Arduino
   SDA   ->  A4 (on Uno/Nano)
   SCL   ->  A5 (on Uno/Nano)
   
-![image](https://github.com/Shivani9698/BMP280/assets/119753029/203fbca4-6dcb-4718-b240-f6b8324c2e8b)
+![image](https://github.com/Shivani9698/BMP280/assets/119753029/b21d0036-788c-4c37-a44a-b30b6ed5e84f)
+
 
 
 
