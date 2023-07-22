@@ -48,8 +48,9 @@ BMP280   Arduino
   GND   ->  GND
   SDA   ->  A4 (on Uno/Nano)
   SCL   ->  A5 (on Uno/Nano)
+  
+![image](https://github.com/Shivani9698/BMP280/assets/119753029/203fbca4-6dcb-4718-b240-f6b8324c2e8b)
 
-![Uploading image.png…]()
 
 
 
